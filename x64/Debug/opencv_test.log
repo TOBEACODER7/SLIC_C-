@@ -1,0 +1,18 @@
+﻿  SLIC.cpp
+D:\work space\opencv_work\opencv_test\SLIC.cpp(38,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(120,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(159,25): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\work space\opencv_work\opencv_test\SLIC.cpp(160,25): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\work space\opencv_work\opencv_test\SLIC.cpp(161,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(162,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(163,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(229,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  opencv_test.vcxproj -> D:\work space\opencv_work\opencv_test\x64\Debug\opencv_test.exe

@@ -1,0 +1,23 @@
+﻿  SLIC.cpp
+D:\work space\opencv_work\opencv_test\SLIC.cpp(30,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(112,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(151,25): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\work space\opencv_work\opencv_test\SLIC.cpp(152,25): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\work space\opencv_work\opencv_test\SLIC.cpp(153,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(154,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(155,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\work space\opencv_work\opencv_test\SLIC.cpp(224,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 151 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv_test.vcxproj -> D:\work space\opencv_work\opencv_test\x64\Release\opencv_test.exe
